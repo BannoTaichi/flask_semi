@@ -21,7 +21,7 @@ def calculation():
         bottom = #####(2)#####['bottom']
         height = #####(2)#####['height']
         # 台形の計算
-        anser = trapezoid_area(top, bottom, height)
+        answer = trapezoid_area(top, bottom, height)
 
         #####(3)#####
         
